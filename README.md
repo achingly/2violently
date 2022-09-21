@@ -7,3 +7,6 @@
 </p>
 <p align="center"> <img src="https://gpvc.arturio.dev/2violently" alt="Views" /> 
 </p>
+<p align="center">
+   <img src="https://visitcount.itsvg.in/api?id=2violently&label=Profile%20Views&color=12&icon=2&pretty=true">
+</p>
